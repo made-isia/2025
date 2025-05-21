@@ -93,7 +93,7 @@ Signed Distance Functions
 [https://sdm24005.github.io/SDF](https://sdm24005.github.io/SDF)
 
 - **Alessandro Soli** e **Daniel Fasulo**  
-Compressione JPG  
+Compressione JPEG  
 [https://radiokyskys.github.io/Compressione-jpg](https://radiokyskys.github.io/Compressione-jpg)
 
 - **David Obexer** e **Dario Rabatti**  
