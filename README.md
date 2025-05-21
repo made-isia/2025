@@ -81,12 +81,12 @@ Nota: verranno distribuite delle dispense digitali in classe.
 ## Gruppi di lavoro e progetti
 
 - **Matteo Novello** e **Sara Bertocchi**   
-Pseudo random   
+Basi della generazione dei numeri casuali  
 [link](link)  
 
 - **Tullio Natale**  
 Frattali  
-[link](link)
+[https://trullouno.github.io/frattali_made](https://trullouno.github.io/frattali_made)
 
 - **Samuele De March** e **Lorenzo Livorsi**  
 Signed Distance Functions    
@@ -137,7 +137,7 @@ L-Systems
 [link](link)
 
 - **Sofia Macrì** e **Sebastiano Alfonsi**  
-Biologia(?)  
+Ottimizzazione naturale  
 [link](link)
 
 
