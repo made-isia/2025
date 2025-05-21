@@ -105,8 +105,8 @@ Paesaggi, textures e Perlin noise
 [https://ninanananina1234.github.io/paesaggi_texture_e_perlin_noise](https://ninanananina1234.github.io/paesaggi_texture_e_perlin_noise)  
 
 - **Riccardo Toniolo**  
-Reaction diffusion  
-[link](link)
+Organico/computazionale, reaction/diffusion   
+[https://riiiiiiiiiiick.github.io/Turing-patterns.lab/](https://riiiiiiiiiiick.github.io/Turing-patterns.lab/)
 
 - **Adam Hudec**   
 Kuwahara Filter  
