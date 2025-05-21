@@ -1,6 +1,6 @@
 # Matematica per il design
 
-Esempi di codice e documenti per il corso di Matematica per il design   
+Esempi di codice e documenti per il corso di Matematica per il design  
 ISIA  
 Triennio 1. anno, 2025  
 
@@ -80,29 +80,29 @@ Nota: verranno distribuite delle dispense digitali in classe.
 
 ## Gruppi di lavoro e progetti
 
-- **Matteo Novello e Sara Bertocchi**   
-Pseudo Random   
+- **Matteo Novello** e **Sara Bertocchi**   
+Pseudo random   
 [link](link)  
 
 - **Tullio Natale**  
 Frattali  
 [link](link)
 
-- **Samuele De March e Lorenzo Livorsi**  
+- **Samuele De March** e **Lorenzo Livorsi**  
 Signed Distance Functions    
 [https://sdm24005.github.io/SDF](https://sdm24005.github.io/SDF)
 
-- **Alessandro Soli e Daniel Fasulo**  
+- **Alessandro Soli** e **Daniel Fasulo**  
 Compressione JPG  
-[link](link)
+[https://radiokyskys.github.io/Compressione-jpg](https://radiokyskys.github.io/Compressione-jpg)
 
-- **David Obexer e Dario Rabatti**  
-Matrici convoluzionali  
+- **David Obexer** e **Dario Rabatti**  
+Filtri convoluzionali  
 [https://davidobexer.github.io/Filtri-convoluzionali](https://davidobexer.github.io/Filtri-convoluzionali)
 
-- **Nina Pambianco e Julia Dudina**  
-Perlin Noise   
-[link](link)  
+- **Nina Pambianco** e **Julia Dudina**  
+Paesaggi, textures e Perlin noise
+[https://ninanananina1234.github.io/paesaggi_texture_e_perlin_noise](https://ninanananina1234.github.io/paesaggi_texture_e_perlin_noise)  
 
 - **Riccardo Toniolo**  
 Reaction diffusion  
@@ -112,31 +112,31 @@ Reaction diffusion
 Kuwahara Filter  
 [https://adamhudec.github.io/made](https://adamhudec.github.io/made)
 
-- **Teresa Tonelotto e Giulia Descovich**  
+- **Teresa Tonelotto** e **Giulia Descovich**  
 Visualizzazione suono  
 [link](link)
 
-- **Francesco Aiudi e Elia Miodini**  
+- **Francesco Aiudi** e **Elia Miodini**  
 Computer vision  
 [link](link)
 
-- **Aurora Amadori e Lorenzo Nepi**  
+- **Aurora Amadori** e **Lorenzo Nepi**  
 Caleidoscopio  
 [link](link)
 
-- **Francesca Coli e Claudia Riva**  
-Interpolazione animazione  
-[link](link)
+- **Francesca Coli** e **Claudia Riva**  
+Easing Motion  
+[https://fraycl.github.io/easing](https://fraycl.github.io/easing)
 
 - **Ginevra Croci**  
 Morse  
 [link](link)
 
-- **Viola Shillito e Asia Torreggiani**  
+- **Viola Shillito** e **Asia Torreggiani**  
 L-Systems  
 [link](link)
 
-- **Sofia Macrì e Sebastiano Alfonsi**  
+- **Sofia Macrì** e **Sebastiano Alfonsi**  
 Biologia(?)  
 [link](link)
 
