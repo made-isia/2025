@@ -113,12 +113,12 @@ Kuwahara Filter
 [https://adamhudec.github.io/made](https://adamhudec.github.io/made)
 
 - **Teresa Tonelotto** e **Giulia Descovich**  
-Visualizzazione suono  
-[link](link)
+XY  
+[https://tererererere.github.io/XY](https://tererererere.github.io/XY)
 
 - **Francesco Aiudi** e **Elia Miodini**  
 Computer vision  
-[link](link)
+[https://frescoz.github.io/computer-vision](https://frescoz.github.io/computer-vision)
 
 - **Aurora Amadori** e **Lorenzo Nepi**  
 Caleidoscopio  
@@ -130,7 +130,7 @@ Easing Motion
 
 - **Ginevra Croci**  
 Morse  
-[link](link)
+[https://gingingiola.github.io/Morse](https://gingingiola.github.io/Morse)
 
 - **Viola Shillito** e **Asia Torreggiani**  
 L-Systems  
