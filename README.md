@@ -101,7 +101,7 @@ Filtri convoluzionali
 [https://davidobexer.github.io/Filtri-convoluzionali](https://davidobexer.github.io/Filtri-convoluzionali)
 
 - **Nina Pambianco** e **Julia Dudina**  
-Paesaggi, textures e Perlin noise
+Paesaggi, textures e Perlin noise  
 [https://ninanananina1234.github.io/paesaggi_texture_e_perlin_noise](https://ninanananina1234.github.io/paesaggi_texture_e_perlin_noise)  
 
 - **Riccardo Toniolo**  
