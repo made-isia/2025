@@ -122,7 +122,7 @@ Computer vision
 
 - **Aurora Amadori** e **Lorenzo Nepi**  
 Caleidoscopio  
-[link](link)
+[https://giangeppardo.github.io/Caleidoscopio](https://giangeppardo.github.io/Caleidoscopio)
 
 - **Francesca Coli** e **Claudia Riva**  
 Easing Motion  
