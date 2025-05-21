@@ -117,7 +117,7 @@ XY
 [https://tererererere.github.io/XY](https://tererererere.github.io/XY)
 
 - **Francesco Aiudi** e **Elia Miodini**  
-Computer vision  
+Breve storia della computer vision  
 [https://frescoz.github.io/computer-vision](https://frescoz.github.io/computer-vision)
 
 - **Aurora Amadori** e **Lorenzo Nepi**  
