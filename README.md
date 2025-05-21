@@ -82,7 +82,7 @@ Nota: verranno distribuite delle dispense digitali in classe.
 
 - **Matteo Novello** e **Sara Bertocchi**   
 Basi della generazione dei numeri casuali  
-[link](link)  
+[https://noovee.github.io/random](https://noovee.github.io/random)  
 
 - **Tullio Natale**  
 Frattali  
@@ -133,11 +133,11 @@ Morse
 [https://gingingiola.github.io/Morse](https://gingingiola.github.io/Morse)
 
 - **Viola Shillito** e **Asia Torreggiani**  
-L-Systems  
-[link](link)
+Introduzione agli L-Systems  
+[https://swathore.github.io/L-SYSTEMS](https://swathore.github.io/L-SYSTEMS)
 
 - **Sofia Macrì** e **Sebastiano Alfonsi**  
 Ottimizzazione naturale  
-[link](link)
+[https://sebalfons.github.io/Ottim1zzazione-Naturale](https://sebalfons.github.io/Ottim1zzazione-Naturale)
 
 
