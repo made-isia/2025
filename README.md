@@ -125,7 +125,7 @@ Caleidoscopio
 [https://giangeppardo.github.io/Caleidoscopio](https://giangeppardo.github.io/Caleidoscopio)
 
 - **Francesca Coli** e **Claudia Riva**  
-Easing Motion  
+Easing functions: la matematica del movimento naturale  
 [https://fraycl.github.io/easing](https://fraycl.github.io/easing)
 
 - **Ginevra Croci**  
