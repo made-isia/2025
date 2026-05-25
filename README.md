@@ -106,7 +106,7 @@ Paesaggi, textures e Perlin noise
 
 - **Riccardo Toniolo**  
 Organico/computazionale, reaction/diffusion   
-[https://riiiiiiiiiiick.github.io/Turing-patterns.lab/](https://riiiiiiiiiiick.github.io/Turing-patterns.lab/)
+[https://riiiiiiiiiiick.github.io/organico-computazionale/](https://riiiiiiiiiiick.github.io/organico-computazionale/)
 
 - **Adam Hudec**   
 Kuwahara Filter  
